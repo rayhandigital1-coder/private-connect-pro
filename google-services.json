@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645586862400",
+    "project_id": "private-contact-pro",
+    "storage_bucket": "private-contact-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645586862400:android:2145157e14a682398b7aa5",
+        "android_client_info": {
+          "package_name": "com.privateconnect.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWVpbmpdDV5H_ahHYZ1cebHH4Xx85jqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
